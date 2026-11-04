@@ -46,7 +46,7 @@ Depuis la racine du dépôt `ISO-9001-Lead-Auditor` :
 
 ## Contact
 
-pidotis+ISO9001@gmail.com
+iso9001@pidotis.com
 
 ---
 
